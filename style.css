@@ -1,0 +1,65 @@
+/* #header{
+    color: antiquewhite;
+} */
+#head{
+    color: rgb(0, 0, 0);
+    background-color: palevioletred;
+}
+#Containertitles{
+    text-align: center;
+    color: palevioletred;
+}
+.IdePic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 50px;
+}
+.languagepic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+    padding-bottom: 38px;
+}
+/* #htmlpic{} */
+    
+.headover{
+    color: greenyellow;
+    
+}
+#ide{
+padding-bottom: 35px;
+}
+#bodyofport{
+    background-color: black;
+}
+.jrphoto{
+    display: block;
+    margin-left: 0px;
+    margin-right: auto;
+    width: 15%;
+    height: auto;
+    padding-bottom: 50px;
+    
+    
+}
+.button1 {
+    border: none;
+    background-color: palevioletred;
+    padding: 15px 32px;
+    text-align: center;
+    /* padding-left: 100px;
+    padding-right: 200px; */
+    margin-left: 30%;
+    display: block;
+    font-size: 25px;
+     right: 100px;
+    cursor: pointer;
+  }
+  #connection{
+    padding-top: 100px;
+
+  }
+  
